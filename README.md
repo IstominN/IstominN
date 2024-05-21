@@ -25,11 +25,11 @@
   <tr>
     <td>Новосибирский государственный технический университет</td>
     <td><a href="//ciu.nstu.ru/kaf/ktrs">Проектирование и технология радиоэлектронных средств</a></td>
-    <td align="center"><a href="//">[RUS]</a></td>
+    <td align="center"><a href="//github.com/IstominN/IstominN/blob/main/Diplomas%20and%20certificates/NSTU.pdf">[RUS]</a></td>
   </tr>
   <tr>
     <td>Яндекс.Практикум</td>
     <td><a href="//practicum.yandex.ru/data-scientist/?from=catalog">Специалист по Data Science</a></td>
-    <td align="center"><a href="//">[RUS]</a>/<a href="//">[EN]</a></td>
+    <td align="center"><a href="//github.com/IstominN/IstominN/blob/main/Diplomas%20and%20certificates/Data_Scientist(RU).pdf">[RUS]</a>/<a href="//github.com/IstominN/IstominN/blob/main/Diplomas%20and%20certificates/Data_Scientist(EN).pdf">[EN]</a></td>
   </tr>
 </table>
