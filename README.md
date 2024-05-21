@@ -6,10 +6,10 @@
 </div>
 
 ## Мое резюме:
-- [Резюме](ссылка)
+- [Резюме](//novosibirsk.hh.ru/resume/602f38ffff0cb7c1790039ed1f45684d614761)
 
 ## Мое портфолио:
-- [Портфолио](https://github.com/IstominN/Portfolio)
+- [Портфолио](//github.com/IstominN/Portfolio)
 
 
 ## Образование:
