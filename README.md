@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>Яндекс.Практикум</td>
-    <td><a href="//practicum.yandex.ru/data-scientist/">Специалист по Data Science</a></td>
+    <td><a href="//practicum.yandex.ru/data-scientist/?from=catalog">Специалист по Data Science</a></td>
     <td align="center"><a href="//">[RUS]</a>/<a href="//">[EN]</a></td>
   </tr>
 </table>
