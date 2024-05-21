@@ -1,16 +1,32 @@
-## Hi there 👋
+## Контакты:
 
-<!--
-**IstominN/IstominN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="mailto:istomin.nikolay87@gmail.com">Почта</a>
+  | <a href="//t.me/Nikolay_Istomin">Telegram</a>
+</div>
 
-Here are some ideas to get you started:
+## Мое резюме:
+- [Резюме](ссылка)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Образование:
+<table>
+  <col width="42%">
+  <col width="42%">
+  <col width="16%">
+  <tr>
+    <th>Учебное заведение</th>
+    <th>Специальность</th>
+    <th>Документ об окончании обучения</th>
+  </tr>
+  <tr>
+    <td>Новосибирский государственный технический университет</td>
+    <td><a href="//ciu.nstu.ru/kaf/ktrs">Проектирование и технология радиоэлектронных средств</a></td>
+    <td align="center"><a href="//">[RUS]</a></td>
+  </tr>
+  <tr>
+    <td>Яндекс.Практикум</td>
+    <td><a href="//practicum.yandex.ru/data-scientist/">Специалист по Data Science</a></td>
+    <td align="center"><a href="//">[RUS]</a>/<a href="//">[EN]</a></td>
+  </tr>
+</table>
