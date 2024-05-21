@@ -2,7 +2,7 @@
 
 <div>
   <a href="mailto:istomin.nikolay87@gmail.com">Почта</a>
-  | <a href="//t.me/Nikolay_Istomin">Telegram</a>
+  | <a href="//t.me/IstominNA">Telegram</a>
 </div>
 
 ## Мое резюме:
